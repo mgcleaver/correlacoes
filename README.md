@@ -7,3 +7,5 @@ conjunto de tabelas de correlações
 padrão ISO 3166 da Organização Internacional para Padronização.
 - A segunda coluna traz o nome do país em inglês
 - A terceira coluna traz o nome do país em português.
+- **Fonte: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3**
+- Tradução via API do google tradutor + correções manuais (Togo e Turkey)
